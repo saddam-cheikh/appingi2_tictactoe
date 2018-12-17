@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="one_app_one_game_made_by_saddam_cheikh_for_android_exam_on_dec_17th_2018">One app, one game. Made by
+        Saddam Cheikh for Android exam on Dec 17th, 2018.
+    </string>
+    <string name="please_enter_your_name">Please enter your name:</string>
+    <string name="made_at">Made at</string>
+    <string name="img">img</string>
+    <string name="player_turn">Player turn :</string>
+</resources>
